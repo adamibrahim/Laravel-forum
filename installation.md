@@ -44,7 +44,7 @@ MAIL_LOG_CHANNEL=emails
 
 ##### Mail notification test with mailtrap 
 
-Simple configure your .env file as instructed at mailtrap.io
+Simply configure your .env file as instructed at mailtrap.io
 
 
 #### Admin user
